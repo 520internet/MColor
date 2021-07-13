@@ -1,7 +1,7 @@
 // JavaScript Document
 /**
- * 作者：www.520internet.com
- * 色彩转换
+ * 作者：亮
+ * 主要是对色彩转换的收集，部分色彩转换算法从其它语言转换而来
  **/
 (function($, window) {
   "use strict";
